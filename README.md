@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a Software Engineer passionate about building reliable, well-architected systems at the intersection of Computer Vision, AI/ML, and distributed systems. I value clear thinking, strong fundamentals, and code that's clean, efficient, and easy to reason about.<br>Currently working as a Computer Vision Engineer at Wobot.ai, where I architect production-grade video analytics pipelines processing high-FPS multi-camera feeds using C++ and GStreamer. I've built systems supporting 300+ edge devices with 99.8% uptime, and designed frameworks that reduced debugging cycles by 40%.
+I'm a Software Engineer passionate about building reliable, well-architected systems at the intersection of Computer Vision, AI/ML, and distributed systems. I value clear thinking, strong fundamentals, and code that's clean, efficient, and easy to reason about.<br>Currently working as a Computer Vision Engineer at Wobot.ai, where I architect production-grade video analytics pipelines processing high-FPS multi-camera feeds using C++ and GStreamer. 
+Right now, I'm particularly interested in system design, backend engineering, and AI — specifically computer vision, LLMs, and agentic systems. I'm drawn to problems that require you to think deeply about scale, reliability, and efficiency — the kind of challenges where theory meets real-world constraints and where intelligent systems need robust infrastructure to actually work.
 
 
 ## 🌐 Socials:
